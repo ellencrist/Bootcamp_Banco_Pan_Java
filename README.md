@@ -17,3 +17,6 @@
     <li>operadores lógicos</li>
   </ul>
 </section>
+
+<p>Ferramenta usada:</p>
+<a href ="https://code.visualstudio.com/assets/images/code-stable.png"><img src="https://code.visualstudio.com/assets/images/code-stable.png" border="0" height="27px"></a>
