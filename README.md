@@ -4,13 +4,16 @@
   <h2>Projetos </h2>
 </section>
 
+<section>
+  <h3>Conhecimentos Aprendidos </h3>
+  <ul>
+    <li>concat</li>
+    <li>return</li>
+  </ul>
 
-<h3>Conhecimentos Aprendidos </h3>
-<ul>
-  <li>concat</li>
-  <li>return</li>
-</ul>
-
-<ul>
-  <li>uso de metódos</li>
-</ul>
+  <ul>
+    <li>uso de metódos</li>
+    <li>identação</li>
+    <li>operadores lógicos</li>
+  </ul>
+</section>
