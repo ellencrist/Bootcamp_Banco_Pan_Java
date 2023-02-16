@@ -6,10 +6,14 @@
 
 <section>
   <h3>Conhecimentos Aprendidos </h3>
+  <p>tipos e variaveis</p>
   <ul>
     <li>concat</li>
     <li>return</li>
-  </ul>
+    <li>final</li>
+    <li>short</li>
+    <li>double</li>
+    <li>int</li>
 
   <ul>
     <li>uso de metódos</li>
