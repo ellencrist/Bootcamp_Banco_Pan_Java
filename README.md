@@ -19,7 +19,7 @@
   <ul>
     <li>uso de metódos</li>
     <li>identação</li>
-    <li>operadores lógicos</li>
+    <li>operadores: aritméticos, unários, relacionais, ternários e lógicos</li>
     <li>Palavras reservadas</li>
     <li>Java DOc</li>
     
