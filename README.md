@@ -14,6 +14,7 @@
     <li>short</li>
     <li>double</li>
     <li>int</li>
+    <li>String</li>
 
   <ul>
     <li>uso de metódos</li>
