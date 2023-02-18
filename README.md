@@ -6,7 +6,6 @@
 
 <section>
   <h3>Conhecimentos Aprendidos </h3>
-  <p>tipos e variaveis</p>
   <ul>
     <li>concat</li>
     <li>return</li>
@@ -16,6 +15,7 @@
     <li>int</li>
     <li>String</li>
     <li>if e else</li>
+    <li>equals</li>
 </section>
 <section>
   <ul>
