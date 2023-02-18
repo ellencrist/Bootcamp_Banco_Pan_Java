@@ -1,7 +1,7 @@
 <h1>Exercicios e projetos em Java do Bootcamp Banco Pan</h1>
 
 <section>
-  <h2>Projetos </h2>
+  <h2>Projetos: </h2>
 </section>
 
 <section>
