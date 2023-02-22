@@ -21,7 +21,7 @@
   <ul>
     <li>uso de metódos</li>
     <li>identação</li>
-    <li>operadores: aritméticos, unários, relacionais, ternários e lógicos</li>
+    <li>operadores: aritméticos, unários, relacionais, ternários, lógicos, bitwise, e shift</li>
     <li>Escopo de método, classe e fluxo</li>
     <li>Palavras reservadas</li>
     <li>Java DOc</li>
