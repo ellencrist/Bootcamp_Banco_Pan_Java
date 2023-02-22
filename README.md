@@ -8,24 +8,20 @@
   <h3>Conhecimentos Aprendidos </h3>
   <ul>
     <li>concat</li>
-    <li>return</li>
     <li>final</li>
-    <li>short</li>
-    <li>double</li>
-    <li>int</li>
-    <li>String</li>
-    <li>if e else</li>
     <li>equals</li>
+    </ul>
 </section>
 <section>
   <ul>
+    <li>tipos de variaveis(short, double, int e String)
     <li>uso de metódos</li>
     <li>identação</li>
     <li>operadores: aritméticos, unários, relacionais, ternários, lógicos, bitwise, e shift</li>
     <li>Escopo de método, classe e fluxo</li>
     <li>Palavras reservadas</li>
-    <li>Java DOc</li>
-    <li>controle de fluxo com estruturas de repetição, decisão e interrupção</li>
+    <li>Geração de Java DOC</li>
+    <li>controle de fluxo com estruturas de repetição(for, while e do while), decisão(if-else, switch e operador ternário) e interrupção(break, continue e return)</li>
     <li>tipos de comentários: //linha única; /* multiplas linhas; /** documentação</li>
   </ul>
 </section>
