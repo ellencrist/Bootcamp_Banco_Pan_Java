@@ -25,7 +25,7 @@
     <li>Escopo de método, classe e fluxo</li>
     <li>Palavras reservadas</li>
     <li>Java DOc</li>
-    <li>controle de fluxo</li>
+    <li>controle de fluxo com estruturas de repetição, decisão e interrupção</li>
     <li>tipos de comentários: //linha única; /* multiplas linhas; /** documentação</li>
   </ul>
 </section>
