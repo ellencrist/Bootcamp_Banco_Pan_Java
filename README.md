@@ -10,6 +10,8 @@
     <li>concat</li>
     <li>final</li>
     <li>equals</li>
+    <li>default</li>
+    <li>switch</li>
     </ul>
 </section>
 <section>
@@ -23,6 +25,7 @@
     <li>Geração de Java DOC</li>
     <li>controle de fluxo com estruturas de repetição(for, while e do while), decisão(if-else, switch e operador ternário) e interrupção(break, continue e return)</li>
     <li>tipos de comentários: //linha única; /* multiplas linhas; /** documentação</li>
+    <li>Boas práticas</li>
   </ul>
 </section>
 
