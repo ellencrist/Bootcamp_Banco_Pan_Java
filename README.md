@@ -23,7 +23,9 @@
     <li>Escopo de método, classe e fluxo</li>
     <li>Palavras reservadas</li>
     <li>Geração de Java DOC</li>
-    <li>controle de fluxo com estruturas de repetição(for, while e do while), decisão(if-else, switch e operador ternário) e interrupção(break, continue e return)</li>
+    <li>controle de fluxo com estruturas de repetição(for, while e do while), decisão(if-else, switch e operador ternário) e interrupção(break, continue e return)
+    </li>
+    <li>Arrays</li>
     <li>tipos de comentários: //linha única; /* multiplas linhas; /** documentação</li>
     <li>Boas práticas</li>
   </ul>
