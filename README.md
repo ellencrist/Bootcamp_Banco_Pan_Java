@@ -12,6 +12,7 @@
     <li>equals</li>
     <li>default</li>
     <li>switch</li>
+    <li>length</li>
     </ul>
 </section>
 <section>
